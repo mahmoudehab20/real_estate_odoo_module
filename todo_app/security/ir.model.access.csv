@@ -1,6 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_todo_task_user,todo_task_user,model_todo_task,todo_app.customer_group,1,1,0,1
-access_time_sheet_user,access_time_sheet_user,model_time_sheet,todo_app.customer_group,1,1,0,1
-access_todo_task_manager,todo_task_manager,model_todo_task,todo_app.manager_group,1,1,0,0
-access_time_sheet_manager,access_time_sheet_manager,model_time_sheet,todo_app.manager_group,1,1,0,0
-access_token,access_token,model_token,,1,1,1,1
